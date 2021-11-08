@@ -1,7 +1,7 @@
 # Getting Started
 
 Sign up at acrobox.io and generate an access token. If you've previously
-generated one and didn't record it then navigate to back to your account page
+generated one and didn't record it then navigate back to your account page
 and regenerate the token. Set the `ACROBOX_TOKEN` environment variable on your
 machine to this value.
 
