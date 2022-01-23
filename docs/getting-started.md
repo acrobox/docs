@@ -17,9 +17,7 @@ waiting for the initial setup to complete.
 $ abx init
 • Creating a new key pair.
 • Payment authorization required.
-  I authorize Acrobox to send instructions to the financial
-  institution that issued my card to take payments from my card
-  account in accordance with the terms of my agreement with you.
+  I authorize Acrobox to charge my card in accordance with the terms of service.
 • Please type 'acrobox' to agree: acrobox
 • Initializing with acrobox.io.
 • Provisioning machine and associated resources.
